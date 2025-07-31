@@ -1,2 +1,1 @@
 # rabitski
-Rabitski's blog
