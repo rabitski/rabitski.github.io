@@ -1,2 +1,2 @@
-# rabitski.github.io
+# rabitski
 Rabitski's blog
